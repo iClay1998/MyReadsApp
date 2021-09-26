@@ -12,6 +12,7 @@ You can snothly navigate between the two pages.
 
 To get started developing right away:
 
+- install npm using `npm install`
 - start the development server with `npm start`
 
 ## Backend Server
